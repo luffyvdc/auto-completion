@@ -13,3 +13,4 @@ de caractère (caractère par caractère) et qui propose des mots complétant l'
 - Créer une interface (esthétique ?) qui permettent d'écrire des messages de manière dynamique
 - Permettre un feedback qui ajoute des mots à la trie et ajuste les fréquences selon l'utilisateur
 - Bonus : Permettre d'envoyer le message final par mail
+
